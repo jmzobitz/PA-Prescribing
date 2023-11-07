@@ -1,41 +1,51 @@
 Prscrbr_Type,Gnrc_Name,tot
-Family,Levothyroxine Sodium,15848187
-Family,Atorvastatin Calcium,13786289
-Family,Lisinopril,13081670
-Family,Amlodipine Besylate,12231974
-Family,Metformin Hcl,10738009
-Family,Omeprazole,10392279
-Family,Simvastatin,9906525
-Family,Furosemide,7859799
-Family,Gabapentin,7282530
-Family,Hydrocodone/Acetaminophen,7191452
-General Practice,Levothyroxine Sodium,1109684
-General Practice,Metformin Hcl,901393
-General Practice,Simvastatin,884827
-General Practice,Amlodipine Besylate,866005
-General Practice,Atorvastatin Calcium,856901
-General Practice,Omeprazole,788894
-General Practice,Gabapentin,777455
-General Practice,Lisinopril,765563
-General Practice,Losartan Potassium,567195
-General Practice,Furosemide,506653
-Nurse Practitioner,Levothyroxine Sodium,3854942
-Nurse Practitioner,Lisinopril,3698131
-Nurse Practitioner,Atorvastatin Calcium,3631202
-Nurse Practitioner,Amlodipine Besylate,3283520
-Nurse Practitioner,Gabapentin,3052648
-Nurse Practitioner,Omeprazole,2882255
-Nurse Practitioner,Metformin Hcl,2745947
-Nurse Practitioner,Furosemide,2337336
-Nurse Practitioner,Hydrocodone/Acetaminophen,2330142
-Nurse Practitioner,Simvastatin,2045226
-Physician Assistant,Levothyroxine Sodium,1670126
-Physician Assistant,Lisinopril,1628052
-Physician Assistant,Atorvastatin Calcium,1613568
-Physician Assistant,Hydrocodone/Acetaminophen,1597128
-Physician Assistant,Omeprazole,1392763
-Physician Assistant,Amlodipine Besylate,1371946
-Physician Assistant,Gabapentin,1275608
-Physician Assistant,Metformin Hcl,1242902
-Physician Assistant,Simvastatin,1020197
-Physician Assistant,Furosemide,856355
+Family,Levothyroxine Sodium,17712279
+Family,Atorvastatin Calcium,16144231
+Family,Lisinopril,14567446
+Family,Amlodipine Besylate,13860440
+Family,Metformin Hcl,12081252
+Family,Omeprazole,11510502
+Family,Simvastatin,10717928
+Family,Furosemide,8604220
+Family,Gabapentin,8303006
+Family,Losartan Potassium,7896395
+General Practice,Levothyroxine Sodium,1228421
+General Practice,Metformin Hcl,991802
+General Practice,Atorvastatin Calcium,987827
+General Practice,Amlodipine Besylate,957150
+General Practice,Simvastatin,950836
+General Practice,Gabapentin,877658
+General Practice,Omeprazole,865475
+General Practice,Lisinopril,844698
+General Practice,Losartan Potassium,642964
+General Practice,Furosemide,547757
+Internal Medicine,Levothyroxine Sodium,16853953
+Internal Medicine,Atorvastatin Calcium,16799819
+Internal Medicine,Amlodipine Besylate,15316713
+Internal Medicine,Lisinopril,12652642
+Internal Medicine,Metformin Hcl,10870690
+Internal Medicine,Simvastatin,10611145
+Internal Medicine,Omeprazole,10216183
+Internal Medicine,Furosemide,8955119
+Internal Medicine,Losartan Potassium,8710375
+Internal Medicine,Gabapentin,7446758
+Nurse Practitioner,Levothyroxine Sodium,4578001
+Nurse Practitioner,Atorvastatin Calcium,4565894
+Nurse Practitioner,Lisinopril,4359557
+Nurse Practitioner,Amlodipine Besylate,3979587
+Nurse Practitioner,Gabapentin,3730697
+Nurse Practitioner,Omeprazole,3390312
+Nurse Practitioner,Metformin Hcl,3280172
+Nurse Practitioner,Furosemide,2750351
+Nurse Practitioner,Hydrocodone/Acetaminophen,2674510
+Nurse Practitioner,Simvastatin,2308217
+Physician Assistant,Atorvastatin Calcium,1966693
+Physician Assistant,Levothyroxine Sodium,1921593
+Physician Assistant,Lisinopril,1874226
+Physician Assistant,Hydrocodone/Acetaminophen,1796189
+Physician Assistant,Amlodipine Besylate,1608995
+Physician Assistant,Omeprazole,1590425
+Physician Assistant,Gabapentin,1519530
+Physician Assistant,Metformin Hcl,1438692
+Physician Assistant,Simvastatin,1124065
+Physician Assistant,Furosemide,982403

@@ -1,41 +1,51 @@
 Prscrbr_Type,category,tot
-Family,Antihypertensive,58301301
-Family,Statin,31885272
-Family,Antacid,19313476
-Family,Antidepressant,18767915
-Family,Diuretic,16256043
-Family,Hormone,14907866
-Family,Sedative,13767168
-Family,Antidiabetic,13379521
-Family,Anticonvulsant,8547088
-Family,NSAID,6647940
-General Practice,Antihypertensive,4359064
-General Practice,Statin,2176636
-General Practice,Antacid,1732958
-General Practice,Antidiabetic,1342650
-General Practice,Sedative,1094864
-General Practice,Diuretic,1034556
-General Practice,Antidepressant,1022801
-General Practice,Anticonvulsant,897559
-General Practice,Hormone,872761
-General Practice,NSAID,625308
-Nurse Practitioner,Antihypertensive,15800276
-Nurse Practitioner,Antidepressant,8346173
-Nurse Practitioner,Statin,7657801
-Nurse Practitioner,Antacid,5436995
-Nurse Practitioner,Sedative,5122044
-Nurse Practitioner,Diuretic,4606975
-Nurse Practitioner,Hormone,3740987
-Nurse Practitioner,Anticonvulsant,3627104
-Nurse Practitioner,Antidiabetic,3207161
-Nurse Practitioner,Analgesic,2723160
-Physician Assistant,Antihypertensive,6730071
-Physician Assistant,Statin,3468561
-Physician Assistant,Antacid,2524886
-Physician Assistant,Antidepressant,2337359
-Physician Assistant,Diuretic,1822879
-Physician Assistant,Antibiotic,1762355
-Physician Assistant,Analgesic,1682953
-Physician Assistant,Hormone,1593695
-Physician Assistant,Sedative,1576763
-Physician Assistant,Antidiabetic,1449544
+Family,Antihypertensive,65375325
+Family,Statin,36261653
+Family,Antacid,21637424
+Family,Antidepressant,21237138
+Family,Diuretic,18062540
+Family,Hormone,16609913
+Family,Sedative,15238864
+Family,Antidiabetic,14903634
+Family,Anticonvulsant,9710068
+Family,NSAID,7595274
+General Practice,Antihypertensive,4792932
+General Practice,Statin,2430253
+General Practice,Antacid,1916307
+General Practice,Antidiabetic,1477720
+General Practice,Sedative,1195500
+General Practice,Antidepressant,1134385
+General Practice,Diuretic,1132487
+General Practice,Anticonvulsant,1011677
+General Practice,Hormone,958944
+General Practice,NSAID,703250
+Internal Medicine,Antihypertensive,68431303
+Internal Medicine,Statin,36428784
+Internal Medicine,Antacid,20284168
+Internal Medicine,Antidepressant,18571175
+Internal Medicine,Diuretic,17751572
+Internal Medicine,Hormone,15225347
+Internal Medicine,Antidiabetic,14035495
+Internal Medicine,Sedative,13505437
+Internal Medicine,Anticonvulsant,9075890
+Internal Medicine,Antibiotic,6270123
+Nurse Practitioner,Antihypertensive,18910557
+Nurse Practitioner,Antidepressant,10208492
+Nurse Practitioner,Statin,9302460
+Nurse Practitioner,Antacid,6513343
+Nurse Practitioner,Sedative,6097641
+Nurse Practitioner,Diuretic,5477151
+Nurse Practitioner,Anticonvulsant,4433796
+Nurse Practitioner,Hormone,4426711
+Nurse Practitioner,Antidiabetic,3789492
+Nurse Practitioner,Analgesic,3156585
+Physician Assistant,Antihypertensive,7823077
+Physician Assistant,Statin,4089065
+Physician Assistant,Antacid,2929715
+Physician Assistant,Antidepressant,2757572
+Physician Assistant,Diuretic,2110575
+Physician Assistant,Antibiotic,2003794
+Physician Assistant,Analgesic,1944130
+Physician Assistant,Hormone,1830146
+Physician Assistant,Sedative,1809797
+Physician Assistant,Anticonvulsant,1666152
