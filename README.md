@@ -1,6 +1,5 @@
 # PA-Prescribing
 
-# NEONSoils
 PA-Prescribing contains R code and data used to generate figures in the article "Prescribing by Physician Associates and Nurse Practitioners in Older Adults
 Is Outpacing Traditional Prescribers: Implications for Practice in American Medicine" by Hooker and Zobitz to be published in *Medical Care Research and Review*
 
