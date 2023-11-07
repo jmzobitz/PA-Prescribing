@@ -1,3 +1,7 @@
+### Author: JMZ
+### Modified: 11/7/23
+### Purpose: Download medicare data from CMS from their API database
+
 ### Query the API for medicare data and save the results
 library(tidyverse)
 library(httr)
@@ -5,8 +9,8 @@ library(jsonlite)
 library(curl)
 
 
-# Base url for the 2019 data
-base_url <- tibble(year = c(2013:2020),
+
+base_url <- tibble(year = c(2013:2021),
                    json = c("https://data.cms.gov/data-api/v1/dataset/92d814bd-e2fb-48c2-95e7-a4b388a2c4be/data",
                             "https://data.cms.gov/data-api/v1/dataset/2af61f9c-327c-4a23-8b7f-15e38b56e25a/data",
                             "https://data.cms.gov/data-api/v1/dataset/5da1b683-99ea-4734-8216-66ffdcd5e443/data",
@@ -14,7 +18,9 @@ base_url <- tibble(year = c(2013:2020),
                             "https://data.cms.gov/data-api/v1/dataset/04b93a42-c533-4e5c-8df9-a8f254886cde/data",
                             "https://data.cms.gov/data-api/v1/dataset/4861ecfc-a656-4dcd-accb-b9c3b840dfcb/data",
                             "https://data.cms.gov/data-api/v1/dataset/5a27f7a8-c7af-434f-a26c-54db03e22cd1/data",
-                            "https://data.cms.gov/data-api/v1/dataset/016d9d07-83eb-434d-91cb-0e7183d89492/data") )
+                            "https://data.cms.gov/data-api/v1/dataset/016d9d07-83eb-434d-91cb-0e7183d89492/data",
+                            "https://data.cms.gov/data-api/v1/dataset/9552739e-3d05-4c1b-8eff-ecabf391e2e5/data") )
+
 
 
 data_list <- vector(mode = "list", length = nrow(base_url))
@@ -58,7 +64,7 @@ acquire_medicare_data <- function(json_url) {
 
 }
 
-for (i in 1:8) {
+for (i in 1:9) {
   print(i)
   data_list[[i]] <- acquire_medicare_data(base_url$json[i])
 }
